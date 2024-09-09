@@ -1,0 +1,14 @@
+tf_variables = {
+  ssh_pub_key_1 = {
+    name = "<VAR_NAME>"
+    type = "<VAR_TYPE>"
+    value = "<VAR_VALUE>"
+    description = "<VAR_DESCRIPTION>"
+  }
+  ssh_pub_key_2 = {
+    name = "<VAR_NAME>"
+    type = "<VAR_TYPE>"
+    value = "<VAR_VALUE>"
+    description = "<VAR_DESCRIPTION>"
+  }
+}
